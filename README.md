@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning web development thru The Odin Project.
 - 💞️ I’m looking to collaborate on beginner projects.
-- 📫 How to reach me : javlicek@yandex.com
+- 📫 How to reach me : github.com/roidosan, javlicek@yandex.com
 
 <!---
 roidosan/roidosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
